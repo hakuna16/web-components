@@ -1,3 +1,7 @@
+
+<a href='https://coveralls.io/github/hakuna16/web-components?branch=master'><img src='https://coveralls.io/repos/github/hakuna16/web-components/badge.svg?branch=master' alt='Coverage Status' /></a>
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
