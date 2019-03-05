@@ -1,4 +1,4 @@
-
+[![Build Status](https://travis-ci.com/hakuna16/web-components.svg?branch=master)](https://travis-ci.com/hakuna16/web-components)
 
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
