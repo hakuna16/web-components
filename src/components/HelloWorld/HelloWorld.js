@@ -9,8 +9,8 @@ const HelloWorld = ({message}) => {
 }
 
 HelloWorld.propTypes = {
-    /** Message to display */
-    message: PropTypes.string
+    /** This is a Hello world Compoent */
+    message: PropTypes.string.isRequired
   };
   
   HelloWorld.defaultProps = {
