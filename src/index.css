@@ -13,7 +13,6 @@ code {
     monospace;
 }
 
-/* Global styles */
 body {
   font-family: Arial, Helvetica, sans-serif;
   color: #666666;
@@ -39,7 +38,6 @@ table {
   border-collapse:collapse;
 }
 
-/* Documentation site component styles */
 .example {
   border: solid 1px #d3d3d3;
   padding: 16px;
